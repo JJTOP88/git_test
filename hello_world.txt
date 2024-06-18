@@ -1,1 +1,3 @@
 This is some text in the hello_world.txt file
+This is me coming back to odin project after a long break.
+I am looking at the git lessons again. 
